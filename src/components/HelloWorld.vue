@@ -21,7 +21,7 @@ export default {
   },
   data () {
     return {
-      name: 'Becky',
+      name: 'Nate',
       num1: 42,
       num2: 78,
        product: null
